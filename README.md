@@ -14,6 +14,6 @@ kubernates YAML file samples.
 
 
 For testing: 
-    1. Go to Dir. <cd ./simple-kustomized-mongodb-dep>
+    1. Go to Dir. <cd ./simple-kustomized-mongodb-dep> <br/>
     2. RUN <kubectl apply -k .>
 
