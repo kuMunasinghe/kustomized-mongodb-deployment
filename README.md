@@ -1,19 +1,19 @@
-# simple-kustomized-mongodb-dep
-sample project that would be for beginners to grasp the basic concepts of Kubernetes and  Kustomize 
+# simple-kustomized-mongodb-dep ⚙️🌐<br/>
+sample project that would be helpful for beginners to grasp the basic concepts of Kubernetes and  Kustomize.
 
-Requirments
-    - minikube
-    - kubectl
+Requirments<br/>
+   - minikube<br/>
+   - kubectl<br/><br/><br/>
 
-kubernates YAML file samples.
-    - Deployments
-    - Services
-    - Ingress
-    - ConfigMaps
-    - Secret
+kubernates YAML file samples.<br/>
+   - Deployment </br>
+   - Services<br/>
+   - Ingress<br/>
+   - ConfigMaps<br/>
+   - Secret<br/>
 
 
-For testing: 
+For testing: <br/>
     1. Go to Dir. <cd ./simple-kustomized-mongodb-dep> <br/>
     2. RUN <kubectl apply -k .>
 
